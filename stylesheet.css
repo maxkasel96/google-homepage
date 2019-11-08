@@ -4,4 +4,23 @@
 
 body {
     font-family: arial,sans-serif;
+    font-size: 13px;
+}
+
+li {
+    display: inline-block;
+}
+
+.main-wrapper {
+display: block;
+}
+
+.nav {
+    font-size: 13px;
+}
+
+.logo {
+    height: 92px;
+    widows: 272px;
+    text-align: center;
 }
