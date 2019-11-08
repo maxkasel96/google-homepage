@@ -12,15 +12,15 @@ li {
 }
 
 .main-wrapper {
-display: block;
+    display: block;
+    text-align: center;
 }
 
 .nav {
     font-size: 13px;
 }
 
-.logo {
+.logo img{
     height: 92px;
-    widows: 272px;
-    text-align: center;
+    width: 272px;
 }
