@@ -26,12 +26,14 @@ li {
 }
 
 .logo-area {
+}
+
+#logo {
     height: 92px;
     width: 272px;
 }
 
 .search-field{
-    width: 582px;
 }
 
 .search-buttons{
@@ -41,8 +43,4 @@ li {
 #nav {
     font-size: 13px;
     opacity: 70%;
-}
-
-#logo {
-    padding-top: 47px;
 }
