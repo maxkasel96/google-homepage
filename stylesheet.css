@@ -34,10 +34,33 @@ li {
 }
 
 .search-field{
+    margin: auto;
 }
 
-.search-buttons{
+#search-text {
+    border-radius: 24px;
+    width: 582px;
+    height: 44px;
+    border: 1px solid #dfe1e5;
+    background: #fff;
+}
 
+#button-row{
+
+}
+
+.search-buttons {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    text-align: center;
+    margin: 11px 4px;
+    padding: 0px 16px;
+    font-size: 14px;
+    height: 36px;
+    line-height: 27px;
+    min-width: 54px;
 }
 
 #nav {
