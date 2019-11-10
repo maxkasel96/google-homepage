@@ -11,16 +11,38 @@ li {
     display: inline-block;
 }
 
+.nav-left {
+
+}
+
+.nav-right {
+
+}
+
 .main-wrapper {
     display: block;
     text-align: center;
+    padding-bottom: 35px;
 }
 
-.nav {
-    font-size: 13px;
-}
-
-.logo img{
+.logo-area {
     height: 92px;
     width: 272px;
+}
+
+.search-field{
+    width: 582px;
+}
+
+.search-buttons{
+
+}
+
+#nav {
+    font-size: 13px;
+    opacity: 70%;
+}
+
+#logo {
+    padding-top: 47px;
 }
