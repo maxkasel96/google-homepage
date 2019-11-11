@@ -105,9 +105,8 @@ footer {
 footer ul {
     margin: 0 0;
     padding: 0;
-    margin-right: 27px;
 }
 
 footer li {
-    margin: 0 27px;
+    margin-right: 27px;
 }
