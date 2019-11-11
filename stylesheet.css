@@ -53,6 +53,7 @@ nav li {
 
 .search-field{
     margin: 30px;
+    display: inline-block;
 }
 
 #search-text {
@@ -61,7 +62,10 @@ nav li {
     height: 44px;
     border: 1px solid #dfe1e5;
     background: #fff;
+    padding: 0 40px;
 }
+
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
 
 #button-row{
 
