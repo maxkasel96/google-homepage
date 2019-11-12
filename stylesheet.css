@@ -88,11 +88,11 @@ input#search-text {
 
 .search-micro {
     padding-left: 15px;
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 #microphone {
-    height: 24px;
+    height: 20px;
 }
 /*#search-text {
     border-radius: 24px;
