@@ -53,9 +53,47 @@ nav li {
 
 .search-field{
     margin: 30px;
-    display: inline-block;
+    display: inline-flex;
+    width: 584px;
+    background: #fff;
+    /* display: flex; */
+    /* border-radius: 8px; */
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 7px;
+    height: 44px;
 }
 
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 15px 15px;
+    opacity: 60%;
+}
+
+.search-input {
+    border: none;
+}
+
+input#search-text {
+    border: none;
+    width: 490px;
+    height: 38px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 2px;
+}
+
+.search-micro {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+#microphone {
+    height: 24px;
+}
 /*#search-text {
     border-radius: 24px;
     width: 582px;
@@ -66,10 +104,6 @@ nav li {
 }*/
 
 @import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
-
-#button-row{
-
-}
 
 .search-buttons {
     background-color: #f2f2f2;
